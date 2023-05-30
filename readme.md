@@ -38,4 +38,4 @@ To run the project locally, please follow these steps:
 
 ## API Documentation
 
-The API documentation for the backend is created using PostMan and can be accessed from here:
+The API documentation for the backend is created using PostMan and can be accessed from here: https://documenter.getpostman.com/view/17533209/2s93mATKPL
