@@ -11,6 +11,13 @@ The project is built using the following technologies:
 - **MongoDB**
 - **Express.js**
 
+## Features
+
+The platform offers the following features:
+
+- **User Authentication**
+- **Error Handling**
+
 ## Installation
 
 To run the project locally, please follow these steps:
